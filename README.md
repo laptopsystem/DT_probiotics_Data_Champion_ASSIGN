@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a data analysis and machine learning project focused on predicting company prospects based on various features like revenue, growth rate, and industry. The assignment includes an interactive **Streamlit Dashboard** for real-time analysis, and a **Google Colab** notebook for running the code and performing the data analysis.
+This repository contains a data analysis and machine learning project focused on predicting company prospects based on various features like revenue, growth rate, and industry.
 
 ## Dataset
 
@@ -60,12 +60,11 @@ Before using the dataset, ensure you have cleaned and processed it (as done in t
   - matplotlib
   - scikit-learn
 
-You don't need to install any additional libraries to run the **Streamlit App** as it is already hosted online. However, if you want to work locally with **Google Colab**, you can install the required libraries.
+
 
 ---
 
 ## Conclusion
 
-This project provides an end-to-end solution for analyzing and predicting company prospects using machine learning. You can explore the models and visualizations either through the interactive **Streamlit dashboard** or by running the code in **Google Colab**.
-
+This project provides an end-to-end solution for analyzing and predicting company prospects using machine learning. 
 
